@@ -1,7 +1,9 @@
 # PDFMergeUtil
 
-PDFMergeUtil is a command line tool(CLI) written in Python based on PyPDF2 library(Homepage: https://pypi.org/project/PyPDF2/).
-This util helps you merge PDF documents from command line.
+PDFMergeUtil is a command line tool(CLI) written in Python based on PyPDF2 library.
+Homepage: https://pypi.org/project/PyPDF2/
+This util helps you merge multiple PDF documents into a single file from command line.
+
 ## Prequisites
 Install the PyPDF2 library using pip 
 #### pip install PyPDF2
