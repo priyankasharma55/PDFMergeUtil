@@ -8,7 +8,10 @@ This util helps you merge multiple PDF documents into a single file from command
 Install the PyPDF2 library using pip 
 #### pip install PyPDF2
 
-## Usage
+## How to run and usage
+
+Input PDFs should be in the same directory as PDFMergeUtil.py and Output PDF will be generated in the same directory
+
     >PDFMergeUtil.py --help
 
     usage: PDFMergeUtil [-h] [-i [INPUT [INPUT ...]]] [-o OUTPUT] [-v]
@@ -22,6 +25,8 @@ Install the PyPDF2 library using pip
       -o OUTPUT, --output OUTPUT
                             output file
       -v, --verbose         increase output verbosity
+      
+      
 
 
 
